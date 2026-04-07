@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://github.com/ctrlplanedev/ctrlplane/compare/v1.0.0...v1.1.0) (2026-04-07)
+
+
+### Features
+
+* **api:** adds order to list deploymentVersions ([#898](https://github.com/ctrlplanedev/ctrlplane/issues/898)) ([c62e858](https://github.com/ctrlplanedev/ctrlplane/commit/c62e8588bfc916a521bebf259383e9b06afd6f63))
+* global variable sets ([#902](https://github.com/ctrlplanedev/ctrlplane/issues/902)) ([34dc2f3](https://github.com/ctrlplanedev/ctrlplane/commit/34dc2f3ba461426ea2c32a95bd20c8741852d7cd))
+
+
+### Bug Fixes
+
+* crud operations on var sets trigger reconciliations ([#912](https://github.com/ctrlplanedev/ctrlplane/issues/912)) ([a1b1835](https://github.com/ctrlplanedev/ctrlplane/commit/a1b1835c32ca93b0b5fd3110cfeaa9fd0b598276))
+* include deployment agent configs in v1 responses ([#910](https://github.com/ctrlplanedev/ctrlplane/issues/910)) ([182e45b](https://github.com/ctrlplanedev/ctrlplane/commit/182e45bb44449b067d7651de1d56b319e60444c5))
+* insert job agents on deployment POST and PUT ([#922](https://github.com/ctrlplanedev/ctrlplane/issues/922)) ([7f5d02b](https://github.com/ctrlplanedev/ctrlplane/commit/7f5d02bed96eb2bab6d0d9a51bde16c962034069))
+
 ## 1.0.0 (2026-04-01)
 
 
